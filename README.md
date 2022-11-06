@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about DevOps.
 - 👯 I'm looking to collaborate "challenger DevOps Junior".
 - 🤔 I'm studying and developing Python projects.
-- 📫 How to reach me: 
-- 😄 Pronouns: I play basketball, program and listen to podcasts. 😍
+- 📫 How to reach me: Link to my Instagram and Linkedln.
+- 😄 I play basketball, program(code), read books and listen to podcasts. 😍
 
 <picture>
 <source 
