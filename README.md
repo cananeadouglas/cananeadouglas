@@ -4,7 +4,7 @@
 - 👯 I'm looking to collaborate "challenger DevOps Junior".
 - 🤔 I'm studying and developing Python Flask, FastAPI, Django ...
 - 📫 How to reach me: Link to my Instagram and Linkedln.
-- 😄 I play basketball, program(code), read books and listen to podcasts. 😍
+- 😄 I play basketball, program(code), posts videos, read books and listen podcasts. 😍
 
 <picture>
 <source 
@@ -23,7 +23,7 @@
 
 <div> 
   <a href="https://www.youtube.com/@primoprogramador" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/douglascananea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/primo_programador" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cananeadouglas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josedouglasfc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
